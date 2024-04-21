@@ -246,8 +246,8 @@ export const Skill_data = [
     {
       skill_name: "kotlin",
       Image: "/kotlin.png",
-      width: 130,
-      height: 130,
+      width: 80,
+      height: 80,
     },
   ];
   
