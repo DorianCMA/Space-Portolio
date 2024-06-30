@@ -15,18 +15,23 @@ const Projects = () => {
           src="/project1.jpeg"
           title="Clothing web store"
           description="Application made in next.js mongodb where various casual and sporty women's and men's clothing is displayed."
+          link="https://proyecto-final-lexpin.vercel.app/"
         />
         <ProjectCard
           src="/projects2.jpeg"
           title="Human resources management system"
           description="Registration system for a company for employees, made with react nodejs mongodb."
-        />
+          link="https://doriancma.github.io/ProjectPorfolio2/"
+
+/>
         <ProjectCard
-          src="/proyecto2.jpeg"
+          src="/Proyecto3.png"
           title="
-          Travel landing page "
-          description="Simple travel information landing page."
-        />
+          Tetris Game "
+          description="Game made with javascript."
+          link="https://doriancma.github.io/Tetris/"
+
+/>
       </div>
     </div>
   );
